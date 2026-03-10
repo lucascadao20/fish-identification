@@ -154,3 +154,10 @@ dmypy.json
 cython_debug/
 /data/
 /data/cache/
+
+# Downloaded model weights
+models/
+
+# Test artifacts
+test_fish.jpg
+results/
