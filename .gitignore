@@ -160,4 +160,6 @@ models/
 
 # Test artifacts
 test_fish.jpg
+test_images/
+test_output/
 results/
